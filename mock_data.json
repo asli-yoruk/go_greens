@@ -1,0 +1,42 @@
+[
+    {
+      "Measure Code": "ERP_P_20",
+      "Parent Description": "Estimated resident population - year ended 30 June",
+      "Description": "Estimated resident population (no.)",
+      "Suburb": "Aspley",
+      "year": "2018",
+      "value": 12974.0
+    },
+    {
+      "Measure Code": "ERP_P_20",
+      "Parent Description": "Estimated resident population - year ended 30 June",
+      "Description": "Estimated resident population (no.)",
+      "Suburb": "Scarborough - Newport",
+      "year": "2018",
+      "value": 13093.0
+    },
+    {
+      "Measure Code": "ERP_P_20",
+      "Parent Description": "Estimated resident population - year ended 30 June",
+      "Description": "Estimated resident population (no.)",
+      "Suburb": "Rothwell - Kippa-Ring",
+      "year": "2018",
+      "value": 17824.0
+    },
+    {
+      "Measure Code": "ERP_P_20",
+      "Parent Description": "Estimated resident population - year ended 30 June",
+      "Description": "Estimated resident population (no.)",
+      "Suburb": "Margate - Woody Point",
+      "year": "2018",
+      "value": 12074.0
+    },
+    {
+      "Measure Code": "ERP_P_20",
+      "Parent Description": "Estimated resident population - year ended 30 June",
+      "Description": "Estimated resident population (no.)",
+      "Suburb": "Mango Hill",
+      "year": "2018",
+      "value": 12020.0
+    }
+  ]
